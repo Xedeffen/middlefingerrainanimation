@@ -7,7 +7,7 @@ canvas.height = window.innerHeight;
 let emojis = [];
 let intensity = 500;
 let speedFactor = 1;
-const emoji = '🖕'; // Middle finger emoji
+const emoji = '💧'; // Rain Drops
 
 class Emoji {
     constructor(x, y, size, speed) {
